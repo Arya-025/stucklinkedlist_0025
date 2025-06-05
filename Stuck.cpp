@@ -80,7 +80,8 @@ int main()
     {
         cout << "1. push\n";
         cout << "2. pop\n";
-     
+        cout << "3. peek\n";
+        
     }
 
     return 0;
