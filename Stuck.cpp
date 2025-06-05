@@ -69,3 +69,18 @@ class stack
     }
 };
 
+int main()
+{
+    stack stack;
+
+    int choice =0;
+    int value;
+
+    while (choice != 4)
+    {
+        cout << "1. push\n";
+    
+    }
+
+    return 0;
+}
