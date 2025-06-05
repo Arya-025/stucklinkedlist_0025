@@ -38,4 +38,6 @@ class stack
     {
         return top == NULL;
     }
+
+
 };
