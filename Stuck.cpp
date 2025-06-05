@@ -85,6 +85,7 @@ int main()
         cout << "Enter your choisce: ";
         cin >> choice;
 
+        switch (choice)
         
     }
 
